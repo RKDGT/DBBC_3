@@ -26,7 +26,22 @@ values
 ( (select Id_position from item where name='Vikto Trach Romanovych'));
 
 
-
+Roman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmkl
 insert into shuffle(position_id) 
 values
 ( (select Id_position from item where name='Dmytro Vahylevych Yuriyovych')),
