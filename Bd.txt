@@ -27,6 +27,7 @@ values
 
 
 
+
 insert into shuffle(position_id) 
 values
 ( (select Id_position from item where name='Dmytro Vahylevych Yuriyovych')),
@@ -43,4 +44,22 @@ fdxvbnm
 dxfgbjmkl
 
 
-ти не правий!!!!!!
+Roman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmklRoman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmkl
+
+
+ніфіга я правий :)
