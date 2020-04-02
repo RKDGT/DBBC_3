@@ -35,3 +35,9 @@ values
 ( (select Id_position from item where name='Vikto Trach Romanovych'));
 create table shuffle(
 Id_shuffle serial primary key,
+
+
+Roman and Victor
+dfghjkl
+fdxvbnm
+dxfgbjmkl
