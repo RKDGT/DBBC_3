@@ -35,15 +35,3 @@ values
 ( (select Id_position from item where name='Vikto Trach Romanovych'));
 create table shuffle(
 Id_shuffle serial primary key,
-position_id integer not null references item(Id_item) on delete cascade
-);
-create table rack(
-Id_rack serial primary key,
-shuffle_id integer not null references shuffle(Id_shuffle) on delete cascade
-);
-
-
-create table rooms(
-Id_rooms serial primary key,
-rack_id integer not null references rack(Id_rack) on delete cascade
-);
